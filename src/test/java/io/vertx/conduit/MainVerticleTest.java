@@ -13,7 +13,7 @@ import org.junit.jupiter.api.extension.ExtendWith;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 
-@DisplayName("Spike Test")
+@DisplayName("MainVerticle Test")
 @ExtendWith(VertxExtension.class)
 class MainVerticleTest {
 
